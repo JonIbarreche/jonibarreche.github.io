@@ -108,14 +108,25 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: '<a href="https://alt-edic.eu/" target="_blank" rel="noopener noreferrer">ALT-EDIC</a> & <a href="https://www.ugr.es/" target="_blank" rel="noopener noreferrer">University of Granada</a>',
-      position: 'Researcher & Data Scientist',
+      company: 'ALT-EDIC',
+      position: 'Data Scientist',
       from: 'February 2025',
       to: 'Present',
-      companyLink: '', // Ya no es necesario ya que los enlaces están en el campo company
+      companyLink: 'https://language-data-space.ec.europa.eu/related-initiatives/alt-edic_en',
       description: [
-        'Participated as a researcher in the project ALT-EDIC, building innovative Large Language Models with robust multilingual and multimodal capabilities to European Language Data Space.',
-        'Developed a tool for the project that allows to generate and evaluate multilingual and multimodal Large Language Models in a simple and intuitive way.',
+        'Building innovative Large Language Models with robust multilingual and multimodal capabilities for the European Language Data Space.',
+        'Developing a specialized evaluation framework for ALT-EDIC that streamlines the testing and deployment of language models across multiple European languages.',
+      ]
+    },
+    {
+      company: 'University of Granada',
+      position: 'Researcher',
+      from: 'February 2025',
+      to: 'Present',
+      companyLink: 'https://www.ugr.es/',
+      description: [
+        'Continuing research based on my Master\'s Thesis, which received a 9.9 grade with Honors distinction.',
+        'Focused on advancing the methodologies and applications of Large Language Models developed during my Master\'s final project.',
       ]
     },
     {
