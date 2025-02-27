@@ -108,11 +108,11 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'ALT-EDIC & University of Granada',
+      company: '<a href="https://alt-edic.eu/" target="_blank" rel="noopener noreferrer">ALT-EDIC</a> & <a href="https://www.ugr.es/" target="_blank" rel="noopener noreferrer">University of Granada</a>',
       position: 'Researcher & Data Scientist',
-      from: 'March 2025',
+      from: 'February 2025',
       to: 'Present',
-      companyLink: 'https://alt-edic.eu/ https://www.ugr.es/ ',
+      companyLink: '', // Ya no es necesario ya que los enlaces están en el campo company
       description: [
         'Participated as a researcher in the project ALT-EDIC, building innovative Large Language Models with robust multilingual and multimodal capabilities to European Language Data Space.',
         'Developed a tool for the project that allows to generate and evaluate multilingual and multimodal Large Language Models in a simple and intuitive way.',
