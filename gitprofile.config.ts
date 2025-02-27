@@ -36,16 +36,16 @@ const CONFIG = {
   },
   profile: {
     image: '', // Puedes añadir un enlace a tu imagen
-    role: 'Desarrollador de Software',
-    bio: 'Desarrollador de software apasionado por la tecnología y el aprendizaje continuo.',
+    role: 'Software Engineer & Data Scientist',
+    bio: 'Im a software engineer and data scientist with a passion for building scalable and efficient systems. I have a strong interest in machine learning and artificial intelligence.',
   },
   seo: {
-    title: 'Joni Barreche',
-    description: 'Joni Barreche - Portfolio Personal',
+    title: 'Jon Ibarreche Arroyo',
+    description: 'Jon Ibarreche Arroyo - Software Developer Portfolio',
     imageURL: '',
   },
   social: {
-    linkedin: '',
+    linkedin: 'jonibarreche',
     twitter: '',
     mastodon: '',
     researchGate: '',
@@ -63,26 +63,169 @@ const CONFIG = {
     leetcode: '',
     skype: '',
     telegram: '',
-    website: 'https://jonibarreche.github.io',
+    website: 'https://jonibarreche.com',
     phone: '',
-    email: '',
+    email: 'jonibarretxe00@gmail.com',
   },
   resume: {
     fileUrl: '',
   },
   skills: [
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'HTML',
-    'CSS',
+    // Programming Languages
+    'Python',
+    'Java',
+    'C++',
+    'C',
+    'R',
+    'SQL',
+    'HTML',    
+    // Databases
+    'MySQL',
+    'MongoDB',
+    
+    // AI & Machine Learning
+    'Machine Learning',
+    'Deep Learning',
+    'Artificial Intelligence',
+    'Neural Networks',
+    'TensorFlow',
+    'Scikit-learn',
+    'Large Language Models (LLMs)',
+    'Hyperparameter Tuning',
+    'Unsupervised Learning',
+    
+    // Data Science
+    'Data Science',
+    'Data Mining',
+    'Big Data',
+    'Data Structures',
+    'Data Modeling',
+    'Process Analysis',
+    
+    // DevOps & Tools
     'Git',
+    'Docker'
   ],
-  experiences: [],
-  certifications: [],
-  awards: [],
-  educations: [],
-  publications: [],
+  experiences: [
+    {
+      company: 'University of Granada',
+      position: 'Data Scientist & Computer Engineer',
+      from: 'March 2025',
+      to: 'Present',
+      companyLink: 'https://www.ugr.es/',
+      description: [
+        'Participated as a researcher in the project ALT-EDIC, building innovative Large Language Models with robust multilingual and multimodal capabilities to European Language Data Space.',
+        'Developed a tool for the project that allows to generate and evaluate multilingual and multimodal Large Language Models in a simple and intuitive way.',
+      ]
+    },
+    {
+      company: 'NTT DATA',
+      position: 'Software Engineer',
+      from: 'February 2023',
+      to: 'September 2023',
+      companyLink: 'https://www.nttdata.com/es/es',
+      description: [
+        'Worked in the data analysis department of the company ',
+        'Worked with NTT DATA\'s clients BBVA bank to improve the quality of the data of the company.',
+      ]
+    }
+  ],
+  certifications: [
+    {
+      name: 'Introduction to Large Language Models',
+      body: 'Linkedin Learning',
+      year: '2024',
+      link: 'https://www.linkedin.com/learning/certificates/d29c6b6393ddd457faed70f7a10db35857ad2b9c04ec4d685b981f9f06cb6ff6'
+    },
+    {
+      name: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization',
+      body: 'Coursera',
+      year: '2023',
+      link: 'https://www.coursera.org/account/accomplishments/certificate/7RKBK4GWEGRL'
+    },
+    {
+      name: 'Structuring Machine Learning Projects',
+      body: 'Coursera',
+      year: '2023',
+      link: 'https://www.coursera.org/account/accomplishments/certificate/LH29Z2JYDF6L',
+    },
+    {
+      name: 'Neural Networks and Deep Learning',
+      body: 'Coursera',
+      year: '2023',
+      link: 'https://www.coursera.org/account/accomplishments/certificate/VA7L9D4Q4WSA'
+    },
+    {
+      name: 'Machine Learning with Python',
+      body: 'IBM',
+      year: '2023',
+      link: 'https://courses.cognitiveclass.ai/certificates/09d4bc73782a4d3db91b8b13414df2fa'
+    },
+    {
+      name: 'Deploying Scalable Machine Learning for Data Science',
+      body: 'Linkedin Learning',
+      year: '2023',
+      link: 'https://www.linkedin.com/learning/certificates/375a695db3a1d19e6496630a9794baea9e93a4c857cf0ff096dfaa75dc8b97e6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bh%2FOLUDJGTZSC8MSxVTH9GQ%3D%3D'
+    },
+    {
+      name: 'Learn Python programming',
+      body: 'Udemy',
+      year: '2022',
+      link: 'https://www.udemy.com/certificate/UC-1413310e-8af8-477e-9228-b5dd224ab0fc/'
+    },
+  ],
+  awards: [
+    {
+      title: "Master's Thesis with Honors 9.9 - Data Science, University of Granada",
+      year: '2024',
+    },
+  ],
+  educations: [
+    {
+      institution: 'University of Granada · 9.9 Master\'s Thesis with Honors',
+      degree: 'Master\'s Degree in Data Science and Computer Engineering',
+      from: '2023',
+      to: '2024',
+    },
+    {
+      institution: 'University of Deusto',
+      degree: 'Bachelor\'s Degree in Computer Engineering',
+      from: '2018',
+      to: '2023',
+    },
+  ],
+  publications: [
+    {
+      title: '',
+      conferenceName: '',
+      journalName: '',
+      authors: '',
+      link: '',
+      description: ''
+    },
+    {
+      title: '',
+      conferenceName: '',
+      journalName: '',
+      authors: '',
+      link: '',
+      description: ''
+    },
+  ],
+  // Display articles from your medium or dev account. (Optional)
+  // blog: {
+  //   source: 'dev', // medium | dev
+  //   username: 'arifszn', // to hide blog section, keep it empty
+  //   limit: 2, // How many articles to display. Max is 10.
+  // },
+  // googleAnalytics: {
+  //   id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+  // },
+  // // Track visitor interaction and behavior. https://www.hotjar.com
+  // hotjar: {
+  //   id: '',
+  //   snippetVersion: 6,
+  // },
   themeConfig: {
     defaultTheme: 'dim',
 

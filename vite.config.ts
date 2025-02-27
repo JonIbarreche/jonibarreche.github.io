@@ -27,9 +27,9 @@ export default defineConfig({
             },
             includeAssets: ['logo.png'],
             manifest: {
-              name: 'Rubén Pérez\'s Portfolio',
-              short_name: 'Rubén Pérez',
-              description: 'Rubén Pérez\'s Portfolio',
+              name: 'Jon Ibarreche\'s Portfolio',
+              short_name: 'Jon Ibarreche',
+              description: 'Jon Ibarreche\'s Portfolio',
               theme_color: '#1f242e',
               icons: [
                 {
