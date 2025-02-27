@@ -134,7 +134,7 @@ const CONFIG = {
       position: 'Software Engineer',
       from: 'February 2023',
       to: 'September 2023',
-      companyLink: 'https://www.nttdata.com/es/es',
+      companyLink: 'https://www.nttdata.com/global/en/',
       description: [
         'Worked in the data analysis department of the company ',
         'Worked with NTT DATA\'s clients BBVA bank to improve the quality of the data of the company.',
