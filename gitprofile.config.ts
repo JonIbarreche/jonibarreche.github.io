@@ -37,7 +37,7 @@ const CONFIG = {
   profile: {
     image: '', // Puedes añadir un enlace a tu imagen
     role: 'Software Engineer & Data Scientist',
-    bio: 'Im a software engineer and data scientist with a passion for building scalable and efficient systems. I have a strong interest in machine learning and artificial intelligence.',
+    bio: 'Im a software engineer and data scientist with a passion for building scalable and efficient end-to-end systems. I have a strong interest in machine learning and artificial intelligence.',
   },
   seo: {
     title: 'Jon Ibarreche Arroyo',
@@ -110,7 +110,7 @@ const CONFIG = {
     {
       company: 'ALT-EDIC',
       position: 'Data Scientist',
-      from: 'February 2025',
+      from: '2025',
       to: 'Present',
       companyLink: 'https://language-data-space.ec.europa.eu/related-initiatives/alt-edic_en',
       description: [
@@ -121,7 +121,7 @@ const CONFIG = {
     {
       company: 'University of Granada',
       position: 'Researcher',
-      from: 'February 2025',
+      from: '2025',
       to: 'Present',
       companyLink: 'https://www.ugr.es/',
       description: [
