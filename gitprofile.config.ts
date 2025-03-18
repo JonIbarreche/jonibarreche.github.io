@@ -143,6 +143,12 @@ const CONFIG = {
   ],
   certifications: [
     {
+      name: 'Verified Certificate for Data Science: Machine Learning',
+      body: 'HarvardX',
+      year: '2025',
+      link: 'https://courses.edx.org/certificates/75228d62993241f1b6e6f7b9915e61b3'
+    },
+    {
       name: 'Introduction to Large Language Models',
       body: 'Linkedin Learning',
       year: '2024',
