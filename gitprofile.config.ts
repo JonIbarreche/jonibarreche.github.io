@@ -35,7 +35,7 @@ const CONFIG = {
     },
   },
   profile: {
-    image: 'https://ibb.co/VYbY8xQ7', // Puedes añadir un enlace a tu imagen
+    image: 'https://i.ibb.co/ZzvzCSYn/1727782932108.jpg', // Enlace directo a la imagen
     role: 'Software Engineer & Data Scientist',
     bio: 'Im a software engineer and data scientist with a passion for building scalable and efficient end-to-end systems. I have a strong interest in machine learning and artificial intelligence.',
   },
