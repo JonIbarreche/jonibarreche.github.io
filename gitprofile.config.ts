@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: [jonibarreche/parking-management-system, jonibarreche/PiVision, jonibarreche/tesla-stock-analysis, jonibarreche/email-sender, jonibarreche/WeatherPy, jonibarreche/music-catalog-LockManager, jonibarreche/SimpleBankApp, jonibarreche/JavaLearningExamples], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['jonibarreche/parking-management-system', 'jonibarreche/PiVision', 'jonibarreche/tesla-stock-analysis', 'jonibarreche/email-sender', 'jonibarreche/WeatherPy', 'jonibarreche/music-catalog-LockManager', 'jonibarreche/SimpleBankApp', 'jonibarreche/JavaLearningExamples'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
