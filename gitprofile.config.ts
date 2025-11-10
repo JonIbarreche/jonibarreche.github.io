@@ -35,13 +35,13 @@ const CONFIG = {
     },
   },
   profile: {
-    image: 'https://i.ibb.co/ZzvzCSYn/1727782932108.jpg', // Enlace directo a la imagen
-    role: 'Software Engineer & Data Scientist',
-    bio: 'Im a software engineer and data scientist with a passion for building scalable and efficient end-to-end systems. I have a strong interest in machine learning and artificial intelligence.',
+    image: 'https://i.ibb.co/ZzvzCSYn/1727782932108.jpg',
+    role: 'Solutions Engineer (AI / Data)',
+    bio: 'Computer engineer passionate about technology, NLP, and sales. Currently based in Spain, working at UGR and collaborating with ALT-EDIC, where I focus on technical advisory across European Language Data Space research teams, helping translate complex AI/LLM concepts into clear decisions and next steps.',
   },
   seo: {
     title: 'Jon Ibarreche Arroyo',
-    description: 'Jon Ibarreche Arroyo - Software Developer Portfolio',
+    description: 'Solutions Engineer (AI/Data) - Technical advisory across European research teams',
     imageURL: '',
   },
   social: {
@@ -71,73 +71,95 @@ const CONFIG = {
     fileUrl: '',
   },
   skills: [
-    // Programming Languages
-    'Python',
-    'Java',
-    'C++',
-    'C',
-    'R',
-    'SQL',
-    'HTML',    
-    // Databases
-    'MySQL',
-    'MongoDB',
+    // Sales & Stakeholder Skills
+    'Sales Engineer',
+    'Solutions Engineer',
+    'Technical Advisory',
+    'POC/POV',
+    'Discovery',
+    'Value Messaging',
+    'Technical Demonstrations',
+    'Objection Handling',
+    'C-Level Communication',
+    'Presales Enablement',
+    'Stakeholder Management',
     
-    // AI & Machine Learning
+    // Technical Skills
+    'Large Language Models (LLMs)',
+    'Semantic Search',
+    'Python',
+    'SQL',
+    'Data Pipelines',
+    'APIs',
+    'Git',
     'Machine Learning',
     'Deep Learning',
-    'Artificial Intelligence',
     'Neural Networks',
     'TensorFlow',
+    'PyTorch',
+    'Transformers',
+    'HPC',
+    
+    // Programming Languages
+    'Java',
+    'JavaScript',
+    'C++',
+    'R',
+    
+    // Databases & Tools
+    'MySQL',
+    'MongoDB',
+    'Oracle SQL',
+    'Docker',
+    'Keras',
     'Scikit-learn',
-    'Large Language Models (LLMs)',
-    'Hyperparameter Tuning',
-    'Unsupervised Learning',
+    'React',
+    'Django',
     
-    // Data Science
-    'Data Science',
-    'Data Mining',
-    'Big Data',
-    'Data Structures',
-    'Data Modeling',
-    'Process Analysis',
-    
-    // DevOps & Tools
-    'Git',
-    'Docker'
+    // Ways of Working
+    'Agile/Kanban',
+    'Documentation',
+    'Presentation & Storytelling'
   ],
   experiences: [
     {
-      company: 'ALT-EDIC',
-      position: 'Data Scientist',
-      from: '2025',
+      company: 'Alliance for Language Technologies - ALT-EDIC',
+      position: 'Data Solutions Engineer',
+      from: 'January 2025',
       to: 'Present',
       companyLink: 'https://language-data-space.ec.europa.eu/related-initiatives/alt-edic_en',
       description: [
-        'Building innovative Large Language Models with robust multilingual and multimodal capabilities for the European Language Data Space.',
-        'Developing a specialized evaluation framework for ALT-EDIC that streamlines the testing and deployment of language models across multiple European languages.',
+        'Translate multilingual LLM capabilities into business outcomes.',
       ]
     },
     {
       company: 'University of Granada',
-      position: 'Researcher',
-      from: '2025',
+      position: 'Solutions Engineer | Research Scientist',
+      from: 'January 2025',
       to: 'Present',
       companyLink: 'https://www.ugr.es/',
       description: [
-        'Continuing research based on my Master\'s Thesis, which received a 9.9 grade with Honors distinction.',
-        'Focused on advancing the methodologies and applications of Large Language Models developed during my Master\'s final project.',
+        'Technical advisory across the European research teams.',
       ]
     },
     {
-      company: 'NTT DATA',
-      position: 'Software Engineer',
-      from: 'February 2023',
+      company: 'jonstudio_',
+      position: 'Sales Manager and Creative Designer',
+      from: 'September 2021',
+      to: '2024',
+      companyLink: '',
+      description: [
+        'Online business where I remotely sell my products to different businesses or particulars, like OpenAI. I managed everything in it, from sales management to closing deals, to creating, designing, and working on the brand.',
+      ]
+    },
+    {
+      company: 'NTT DATA Europe & Latam',
+      position: 'Junior Software Engineer Data & Analytics',
+      from: 'March 2023',
       to: 'September 2023',
       companyLink: 'https://www.nttdata.com/global/en/',
       description: [
-        'Worked in the data analysis department of the company ',
-        'Worked with NTT DATA\'s clients BBVA bank to improve the quality of the data of the company.',
+        'Analytics delivery for clients like BBVA and NTT Data + collaboration with consulting teams.',
       ]
     }
   ],
