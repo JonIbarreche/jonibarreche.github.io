@@ -147,7 +147,7 @@ const CONFIG = {
       position: 'Sales Manager and Creative Designer',
       from: 'September 2021',
       to: '2024',
-      companyLink: '',
+      companyLink: 'https://www.instagram.com/jonstudio_/',
       description: [
         'Online business where I remotely sell my products to different businesses or particulars, like OpenAI. I managed everything in it, from sales management to closing deals, to creating, designing, and working on the brand.',
       ]
