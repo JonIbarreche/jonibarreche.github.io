@@ -37,7 +37,7 @@ const CONFIG = {
   profile: {
     image: 'https://i.ibb.co/ZzvzCSYn/1727782932108.jpg',
     role: 'Solutions Engineer (AI / Data)',
-    bio: 'Computer engineer passionate about technology, NLP, and sales. Currently based in Spain, working at UGR and collaborating with ALT-EDIC, where I focus on technical advisory across European Language Data Space research teams, helping translate complex AI/LLM concepts into clear decisions and next steps.',
+    bio: 'Computer engineer passionate about technology, NLP, and sales. Working at UGR and collaborating with ALT-EDIC, where I focus on technical advisory across European Language Data Space research teams, helping translate complex AI/LLM concepts into clear decisions and next steps.',
   },
   seo: {
     title: 'Jon Ibarreche Arroyo',
