@@ -35,7 +35,7 @@ const CONFIG = {
     },
   },
   profile: {
-    image: 'https://i.ibb.co/bg0RMXBn/jon-ibarreche-arroyo.png',
+    image: 'https://i.ibb.co/xtxBVyhv/jon-ibarreche-arroyo.png',
     role: 'Solutions Engineer (AI / Data)',
     bio: 'Computer engineer passionate about technology, NLP, and sales. Currently based in Eindhoven, Netherlands, working at UGR and collaborating with ALT-EDIC, where I focus on technical advisory across European Language Data Space research teams, helping translate complex AI/LLM concepts into clear decisions and next steps.',
   },
