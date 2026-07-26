@@ -35,7 +35,7 @@ const CONFIG = {
     },
   },
   profile: {
-    image: 'https://i.ibb.co/7tkZ2mxJ/Jon-abril-2026.jpg',
+    image: 'https://ibb.co/mCjFV4q7',
     role: 'Solutions Engineer (AI / Data)',
     bio: 'Computer engineer passionate about technology, NLP, and sales. Currently based in Eindhoven, Netherlands, working at UGR and collaborating with ALT-EDIC, where I focus on technical advisory across European Language Data Space research teams, helping translate complex AI/LLM concepts into clear decisions and next steps.',
   },
